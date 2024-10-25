@@ -3,6 +3,10 @@ body{
 }
 h1{
 color: black;
+font-style: italic;
+}
+h2{
+  color: black;
 }
 
 p{
