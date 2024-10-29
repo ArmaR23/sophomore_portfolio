@@ -35,3 +35,8 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
+img{
+  float: middle;
+  width: 200px;
+  height:200px;
+}
