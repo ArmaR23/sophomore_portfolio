@@ -13,3 +13,25 @@ h2{
 p{
   color: black;
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(176, 147, 220);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: rgb(190, 233, 198);
+  background-color: transparent;
+  text-decoration: none;
+}
