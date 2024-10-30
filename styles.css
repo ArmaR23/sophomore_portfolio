@@ -13,7 +13,13 @@ h2{
 p{
   color: black;
   font-family: "Times New Roman", Times, serif;
-  font-size: 10px;
+  font-size: 18px;
+}
+
+li{
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
 }
 
 a:link {
