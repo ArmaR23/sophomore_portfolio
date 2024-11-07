@@ -26,7 +26,7 @@ li{
 a:link {
   color: white;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: umderline;
 }
 a:visited {
   color: pink;
