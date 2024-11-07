@@ -40,7 +40,7 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color: rgb(190, 233, 198);
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
