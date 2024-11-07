@@ -35,7 +35,7 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(176, 147, 220);
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
