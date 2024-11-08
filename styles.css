@@ -48,4 +48,5 @@ img{
   float:right;
   width: 290px;
   height:350px;
+  justify-content: space-around;
 }
