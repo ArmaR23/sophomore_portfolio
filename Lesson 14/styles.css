@@ -1,0 +1,199 @@
+/* ADD RULES BELOW TO STYLE LAYOUT */
+
+/* layout for comic book cover image gallery */
+
+
+
+/* comic book cover image style */
+
+
+
+/* comic book citation style */
+
+
+
+/* storytelling flowchart image style */
+
+
+
+/* layout style for protagonist image and information*/
+
+
+
+/* protagonist image style */
+
+
+
+/* layout style for supporting cast images */
+
+
+/* supporting cast image style */
+
+
+
+/* layout for planning comic pages images and information */
+
+
+/* layout for image and information within planning container */
+
+
+
+/* comic panels image style */
+
+
+
+/* perspective image style */
+
+
+
+/* layout style for publishing option images */
+
+
+
+
+/* layout style for image citation */
+
+
+
+/* style for paragraph in image citation container */
+
+
+
+/* DO NOT EDIT CODE BELOW */
+
+/* body style */
+body {
+  background: #F5F5F5;
+  color:#333333;
+  font-family: Verdana;
+}
+
+/* title and subtitle styles */
+h1 {
+  text-align: center;
+  color: #E63946;
+  text-shadow: #333333 2px 2px;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+  color: #1D3557;
+  text-shadow: #333333 1px 1px;
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+  color: #457B9D;
+  text-shadow: #333333 1px 1px;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+/* general image style  */
+img {
+  width: 300px;
+  border-style: solid;
+  border-color: #F4A261;
+  box-shadow: 2px 2px;
+}/* ADD RULES BELOW TO STYLE LAYOUT */
+
+/* layout for comic book cover image gallery */
+
+
+
+/* comic book cover image style */
+
+
+
+/* comic book citation style */
+
+
+
+/* storytelling flowchart image style */
+
+
+
+/* layout style for protagonist image and information*/
+
+
+
+/* protagonist image style */
+
+
+
+/* layout style for supporting cast images */
+
+
+/* supporting cast image style */
+
+
+
+/* layout for planning comic pages images and information */
+
+
+/* layout for image and information within planning container */
+
+
+
+/* comic panels image style */
+
+
+
+/* perspective image style */
+
+
+
+/* layout style for publishing option images */
+
+
+
+
+/* layout style for image citation */
+
+
+
+/* style for paragraph in image citation container */
+
+
+
+/* DO NOT EDIT CODE BELOW */
+
+/* body style */
+body {
+  background: #F5F5F5;
+  color:#333333;
+  font-family: Verdana;
+}
+
+/* title and subtitle styles */
+h1 {
+  text-align: center;
+  color: #E63946;
+  text-shadow: #333333 2px 2px;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+  color: #1D3557;
+  text-shadow: #333333 1px 1px;
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+  color: #457B9D;
+  text-shadow: #333333 1px 1px;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+/* general image style  */
+img {
+  width: 300px;
+  border-style: solid;
+  border-color: #F4A261;
+  box-shadow: 2px 2px;
+}
