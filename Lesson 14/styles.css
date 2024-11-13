@@ -67,7 +67,11 @@
 
 
 /* style for paragraph in image citation container */
-
+.silkscreen-bold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 }
 
 
@@ -86,9 +90,6 @@ h1 {
   text-align: center;
   color: #E63946;
   text-shadow: #333333 2px 2px;
-  font-family: "Silkscreen", sans-serif;
-  font-weight: 700;
-  font-style: normal;
   font-size: 45px;
 }
 
