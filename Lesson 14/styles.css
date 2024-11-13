@@ -46,7 +46,9 @@
 
 
 /* layout for planning comic pages images and information */
-
+.movement-2{
+  float:right;
+}
 
 /* layout for image and information within planning container */
 
