@@ -1,7 +1,12 @@
 /* ADD RULES BELOW TO STYLE LAYOUT */
 
 /* layout for comic book cover image gallery */
-
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+}
 
 
 /* comic book cover image style */
