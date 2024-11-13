@@ -30,6 +30,12 @@
 
 
 /* layout style for supporting cast images */
+.container-2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+  }
 
 
 /* supporting cast image style */
