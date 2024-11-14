@@ -23,6 +23,12 @@ li{
   font-size: 18px;
 }
 
+.silkscreen-bold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 a:link {
   color: white;
   background-color: transparent;
