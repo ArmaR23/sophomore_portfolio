@@ -29,7 +29,7 @@ a:link {
   text-decoration: umderline;
 }
 a:visited {
-  color: white;
+  color: rgb(151,227,240);
   background-color: transparent;
   text-decoration: none;
 }
