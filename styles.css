@@ -29,18 +29,18 @@ a:link {
   text-decoration: underline;
 }
 a:visited {
-  color: pink;
+  color: #DBE9FA;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:hover {
-  color: white;
+  color: #4C787E;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: #DBE9FA;
+  color: #77BFC7;
   background-color: transparent;
   text-decoration: underline;
 }
