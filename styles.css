@@ -55,7 +55,7 @@ img{
   width: 290px;
   height:350px;
 }
-
+/*Navigation bar*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -88,3 +88,9 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
+/*Navigation bar end*/
+
+.color{
+  color: rgb(90, 112, 134);
+}
+
