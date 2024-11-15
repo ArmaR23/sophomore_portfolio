@@ -90,7 +90,9 @@ li a:hover:not(.active) {
 }
 /*Navigation bar end*/
 
-.color{
+#check{
   color: rgb(90, 112, 134);
+  text-align: left;
+  text-decoratation: underline;
 }
 
