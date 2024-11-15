@@ -8,18 +8,15 @@ font-style: italic;
 }
 h2{
   color: black;
-  font-family: "Lucida Handwriting", cursive;
 }
 
 p{
   color: black;
-  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
 }
 
 li{
   color: black;
-  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
 }
 
@@ -34,6 +31,7 @@ a:link {
   background-color: transparent;
   text-decoration: underline;
 }
+
 a:visited {
   color: #DBE9FA;
   background-color: transparent;
@@ -45,16 +43,20 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+
 a:active {
   color: #77BFC7;
   background-color: transparent;
   text-decoration: underline;
 }
+
 img{
   float:right;
   width: 290px;
   height:350px;
 }
+
+
 /*Navigation bar*/
 ul {
   list-style-type: none;
