@@ -66,11 +66,6 @@ ul {
 
 li {
   float: left;
-  border-right:1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
 }
 
 li a {
@@ -79,9 +74,10 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
 
-.active {
-  background-color: #04AA6D;
+li a:hover {
+  background-color: #111;
 }
 /*Navigation bar end*/
 
