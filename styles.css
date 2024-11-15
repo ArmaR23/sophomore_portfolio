@@ -2,12 +2,12 @@ body{
   background-color: rgb(90, 112, 134);
 }
 h1{
-color: black;
+color: white;
 text-align: center;
 font-style: italic;
 }
 h2{
-  color: black;
+  color: white;
 }
 
 p{
@@ -63,7 +63,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #214462;
+  background-color: #638ba2;
 }
 
 li {
