@@ -63,7 +63,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #638ba2;
+  background-color: #7a8fa0;
 }
 
 li {
@@ -83,9 +83,5 @@ li a:hover {
 }
 /*Navigation bar end*/
 
-#check{
-  color: rgb(90, 112, 134);
-  text-align: left;
-  text-decoratation: underline;
-}
+
 
